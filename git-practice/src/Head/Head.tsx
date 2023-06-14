@@ -15,6 +15,7 @@ function Head(props: HeadPropsType) {
                 freedom
             </p>
             <p>1</p>
+            <p>2</p>
         </div>
     );
 }
