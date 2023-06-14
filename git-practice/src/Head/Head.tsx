@@ -14,6 +14,7 @@ function Head(props: HeadPropsType) {
                 rast
                 freedom
             </p>
+            <p>1</p>
         </div>
     );
 }
